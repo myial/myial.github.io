@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://myial.github.io/VJS/sitemap.VJS.gz
